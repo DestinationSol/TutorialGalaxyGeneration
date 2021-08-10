@@ -6,5 +6,4 @@
   * [PlanetGenerators](tutorial/04_planet-generators.md)
   * [MazeGenerators](tutorial/05_maze-generators.md)
   * [BeltGenerators](tutorial/06_belt-generators.md)
-  * [Custom FeatureGenerators](tutorial/07_custom-feature-generators.md)
-  * [Custom Config Files](tutorial/08_custom-config-files.md)
+  * [Custom Config Files](tutorial/07_custom-config-files.md)

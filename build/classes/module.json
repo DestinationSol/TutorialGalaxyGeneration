@@ -1,0 +1,11 @@
+{
+    "id" : "TutorialGalaxyGeneration",
+    "version" : "0.1.0",
+    "displayName" : "TutorialGalaxyGeneration Faction",
+    "description" : "Content related to World Generation Tutorial.",
+    "dependencies" :  [
+        {
+            "id" : "core"
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.37">
+<file name="C:\DestinationSol2\DestinationSol\modules\TutorialGalaxyGeneration\src\main\java\org\destinationsol\world\NewPlanetGenerator.java">
+<error line="1" severity="warning" message="Line does not match expected header line of &apos;// Copyright 20\d\d The Terasology Foundation&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.RegexpHeaderCheck"/>
+</file>
+</checkstyle>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BugCollection version="4.0.0" sequence="0" timestamp="1628447710599" analysisTimestamp="1628447710649" release="0.1.0">
+  <Project projectName="TutorialGalaxyGeneration (spotbugsMain)">
+    <Jar>C:\DestinationSol2\DestinationSol\modules\TutorialGalaxyGeneration\build\classes\org\destinationsol\world\NewPlanetGenerator.class</Jar>
+    <AuxClasspathEntry>C:\DestinationSol2\DestinationSol\modules\core\build\libs\core-2.0.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\DestinationSol2\DestinationSol\engine\build\classes\java\main</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\noaai\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-api\1.7.25\da76ca59f6a57ee3102f8f9bd9cee742973efa8a\slf4j-api-1.7.25.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\noaai\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\noaai\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.9.8\6f0497b7958216464101adfb7bdc3a0f7b88d6d3\gdx-box2d-1.9.8.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\noaai\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-controllers\1.9.8\8cdc9ab6826a74594c3b0084d8a7669f8124592b\gdx-controllers-1.9.8.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\noaai\.gradle\caches\modules-2\files-2.1\org.terasology.nui\nui-libgdx\3.0.0-SNAPSHOT\1e385f5793c0fd7d00b72f370242e2ced7bb7a8d\nui-libgdx-3.0.0-SNAPSHOT.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\noaai\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.9.8\a35a0076fbce873f9c2d5a1a1c8066244231bb3c\gdx-1.9.8.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\noaai\.gradle\caches\modules-2\files-2.1\org.terasology.nui\nui-gestalt7\3.0.0-SNAPSHOT\debe04a3015e97acbc17c7b013c688e3b2176541\nui-gestalt7-3.0.0-SNAPSHOT.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\noaai\.gradle\caches\modules-2\files-2.1\org.terasology.gestalt\gestalt-asset-core\7.0.6-SNAPSHOT\ee617260d2a9fa578307bba492368a85ca602ac3\gestalt-asset-core-7.0.6-SNAPSHOT.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\noaai\.gradle\caches\modules-2\files-2.1\org.terasology.gestalt\gestalt-entity-system\7.0.6-SNAPSHOT\d38e0986a1982ca3b6a1481cb5e0e743fa92745a\gestalt-entity-system-7.0.6-SNAPSHOT.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\noaai\.gradle\caches\modules-2\files-2.1\org.terasology.gestalt\gestalt-module\7.0.6-SNAPSHOT\35046df12a22f16d5e85dd09fdc3ebfe2157f63d\gestalt-module-7.0.6-SNAPSHOT.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\noaai\.gradle\caches\modules-2\files-2.1\org.terasology.gestalt\gestalt-util\7.0.6-SNAPSHOT\b6e2afe456dc77b48e7dd3b4fd0cd8eaf3bba049\gestalt-util-7.0.6-SNAPSHOT.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\noaai\.gradle\caches\modules-2\files-2.1\org.terasology.nui\nui\3.0.0-SNAPSHOT\13a83447f97b27c199aaf35f2e6df40986ef37c7\nui-3.0.0-SNAPSHOT.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\noaai\.gradle\caches\modules-2\files-2.1\com.github.everit-org.json-schema\org.everit.json.schema\1.11.1\1177750c65365b49254b272f362808c68f87922a\org.everit.json.schema-1.11.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\noaai\.gradle\caches\modules-2\files-2.1\org.terasology\reflections\0.9.12-MB\b7422b95d3db4cd6b80b9f0864b8a11631ed9944\reflections-0.9.12-MB.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\noaai\.gradle\caches\modules-2\files-2.1\org.abego.treelayout\org.abego.treelayout.core\1.0.3\457216e8e6578099ae63667bb1e4439235892028\org.abego.treelayout.core-1.0.3.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\noaai\.gradle\caches\modules-2\files-2.1\com.miglayout\miglayout-core\5.0\956daa1576bccb24e727ab75540b078171c7c432\miglayout-core-5.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\noaai\.gradle\caches\modules-2\files-2.1\org.terasology.nui\nui-input\3.0.0-SNAPSHOT\56941746b663bdee0d1f8483f9fa3ea1b8bd29e9\nui-input-3.0.0-SNAPSHOT.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\noaai\.gradle\caches\modules-2\files-2.1\org.terasology.nui\nui-reflect\3.0.0-SNAPSHOT\b39895f0295006fddb52bd459971a1ffbfa2d00d\nui-reflect-3.0.0-SNAPSHOT.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\noaai\.gradle\caches\modules-2\files-2.1\org.joml\joml\1.10.0\a29b8bf72dc1478e9ceea256db214188da94f313\joml-1.10.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\noaai\.gradle\caches\modules-2\files-2.1\org.terasology.joml-ext\joml-geometry\0.1.0\34625890777e621d390cf27c674819965087a58b\joml-geometry-0.1.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\noaai\.gradle\caches\modules-2\files-2.1\org.json\json\20180130\26ba2ec0e791a32ea5dfbedfcebf36447ee5b12c\json-20180130.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\noaai\.gradle\caches\modules-2\files-2.1\commons-validator\commons-validator\1.6\e989d1e87cdd60575df0765ed5bac65c905d7908\commons-validator-1.6.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\noaai\.gradle\caches\modules-2\files-2.1\commons-beanutils\commons-beanutils\1.9.3\c845703de334ddc6b4b3cd26835458cb1cba1f3d\commons-beanutils-1.9.3.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\noaai\.gradle\caches\modules-2\files-2.1\com.damnhandy\handy-uri-templates\2.1.6\d37507104724342eff9cf47cc3dd70e866f3eb79\handy-uri-templates-2.1.6.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\noaai\.gradle\caches\modules-2\files-2.1\com.google.re2j\re2j\1.1\d716952ab58aa4369ea15126505a36544d50a333\re2j-1.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\noaai\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\20.0\89507701249388e1ed5ddcf8c41f4ce1be7831ef\guava-20.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\noaai\.gradle\caches\modules-2\files-2.1\org.javassist\javassist\3.21.0-GA\598244f595db5c5fb713731eddbb1c91a58d959b\javassist-3.21.0-GA.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\noaai\.gradle\caches\modules-2\files-2.1\commons-digester\commons-digester\1.8.1\3dec9b9c7ea9342d4dbe8c38560080d85b44a015\commons-digester-1.8.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\noaai\.gradle\caches\modules-2\files-2.1\commons-logging\commons-logging\1.2\4bfc12adfe4842bf07b657f0369c4cb522955686\commons-logging-1.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\noaai\.gradle\caches\modules-2\files-2.1\commons-collections\commons-collections\3.2.2\8ad72fe39fa8c91eaaf12aadb21e0c3661fe26d5\commons-collections-3.2.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\noaai\.gradle\caches\modules-2\files-2.1\joda-time\joda-time\2.9.4\1c295b462f16702ebe720bbb08f62e1ba80da41b\joda-time-2.9.4.jar</AuxClasspathEntry>
+    <SrcDir>C:\DestinationSol2\DestinationSol\modules\TutorialGalaxyGeneration\src\main\resources</SrcDir>
+    <SrcDir>C:\DestinationSol2\DestinationSol\modules\TutorialGalaxyGeneration\src\main\java</SrcDir>
+  </Project>
+  <Errors errors="0" missingClasses="0"></Errors>
+  <FindBugsSummary timestamp="Sun, 8 Aug 2021 14:35:10 -0400" total_classes="1" referenced_classes="29" total_bugs="0" total_size="13" num_packages="1" java_version="11.0.8" vm_version="11.0.8+10-LTS" cpu_seconds="8.86" clock_seconds="2.10" peak_mbytes="153.52" alloc_mbytes="512.00" gc_seconds="0.03">
+    <FileStats path="org/destinationsol/world/NewPlanetGenerator.java" bugCount="0" size="13"/>
+    <PackageStats package="org.destinationsol.world" total_bugs="0" total_types="1" total_size="13">
+      <ClassStats class="org.destinationsol.world.TutorialPlanetGenerator" sourceFile="NewPlanetGenerator.java" interface="false" size="13" bugs="0"/>
+    </PackageStats>
+    <FindBugsProfile>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="363" invocations="424" avgMicrosecondsPerInvocation="856" maxMicrosecondsPerInvocation="18572" standardDeviationMicrosecondsPerInvocation="1653"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassDataAnalysisEngine" totalMilliseconds="192" invocations="428" avgMicrosecondsPerInvocation="450" maxMicrosecondsPerInvocation="15243" standardDeviationMicrosecondsPerInvocation="765"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.MethodGenFactory" totalMilliseconds="91" invocations="2" avgMicrosecondsPerInvocation="45758" maxMicrosecondsPerInvocation="90817" standardDeviationMicrosecondsPerInvocation="45058"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="71" invocations="29" avgMicrosecondsPerInvocation="2465" maxMicrosecondsPerInvocation="20356" standardDeviationMicrosecondsPerInvocation="4277"/>
+      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="60" invocations="87" avgMicrosecondsPerInvocation="696" maxMicrosecondsPerInvocation="3652" standardDeviationMicrosecondsPerInvocation="717"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindNoSideEffectMethods" totalMilliseconds="44" invocations="29" avgMicrosecondsPerInvocation="1543" maxMicrosecondsPerInvocation="7713" standardDeviationMicrosecondsPerInvocation="1892"/>
+      <ClassProfile name="edu.umd.cs.findbugs.util.TopologicalSort" totalMilliseconds="39" invocations="391" avgMicrosecondsPerInvocation="101" maxMicrosecondsPerInvocation="1216" standardDeviationMicrosecondsPerInvocation="170"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.JavaClassAnalysisEngine" totalMilliseconds="39" invocations="62" avgMicrosecondsPerInvocation="637" maxMicrosecondsPerInvocation="21855" standardDeviationMicrosecondsPerInvocation="2794"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.NoteDirectlyRelevantTypeQualifiers" totalMilliseconds="25" invocations="29" avgMicrosecondsPerInvocation="896" maxMicrosecondsPerInvocation="10564" standardDeviationMicrosecondsPerInvocation="1955"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.OverridingEqualsNotSymmetrical" totalMilliseconds="21" invocations="29" avgMicrosecondsPerInvocation="733" maxMicrosecondsPerInvocation="10549" standardDeviationMicrosecondsPerInvocation="1925"/>
+    </FindBugsProfile>
+  </FindBugsSummary>
+  <ClassFeatures></ClassFeatures>
+  <History></History>
+</BugCollection>
