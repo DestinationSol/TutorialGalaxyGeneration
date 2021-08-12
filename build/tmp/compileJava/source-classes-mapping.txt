@@ -1,2 +1,2 @@
 org/destinationsol/world/NewPlanetGenerator.java
- org.destinationsol.world.TutorialPlanetGenerator
+ org.destinationsol.TutorialGalaxyGeneration.TutorialPlanetGenerator

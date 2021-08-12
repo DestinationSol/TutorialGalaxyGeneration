@@ -2,7 +2,7 @@
 
 This section of the tutorial will guide you in creating you own type of SolarSystem using SolarSystemGenerators.
 
-First, create a new module for your tutorial work. A guide to creating and working with modules can be found at [https://github.com/MovingBlocks/Terasology/wiki/Developing-Modules](https://github.com/MovingBlocks/Terasology/wiki/Developing-Modules).
+First, create a new module for your tutorial work. A guide to creating and working with modules can be found at [https://github.com/MovingBlocks/DestinationSol/wiki/Initializing-a-Module](https://github.com/MovingBlocks/DestinationSol/wiki/Initializing-a-Module).
 
 It is best to name your module a different name than this tutorial module, otherwise the game engine might use this one by mistake.
 
@@ -62,6 +62,6 @@ At this point, the `build()` method looks like this:
 
 If you want to get creative, you can try changing the size by having `getSolarSystemSize()` return `SolarSystemSize.LARGE` or `SolarSystemSize.SMALL`. You can also create your own SolarSystemConfig to change more properties of SolarSystems, like which enemies spawn in them. More on that later. 
 
-Let's move on to the next section: [Part 3: PlanetGenerators](tutorial/04_planet-generators.md)
+Let's move on to the next section: [Part 2: PlanetGenerators](tutorial/03_planet-generators.md)
  
 

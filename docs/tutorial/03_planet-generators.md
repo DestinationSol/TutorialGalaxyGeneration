@@ -46,4 +46,4 @@ PlanetGenerator also contains several methods that can be used to modify some of
 
 As with SolarSystemGenerators, PlanetGenerators can also be modified more extensively by creating your own Config files. More on that later. 
 
-Let's move on to the next section! [Part 4: Maze Generators](tutorial/05_maze-generators.md)
+Let's move on to the next section! [Part 3: Maze Generators](tutorial/04_maze-generators.md)

@@ -29,4 +29,4 @@ public class TutorialMazeGenerator extends MazeGenerator {
 
 Now, the game will sometimes generate Mazes using your class. However, these Mazes will be indistinguishable from the game's default Mazes. There are a few ways to modify the Maze. You can multiply the radius by some factor to make the Maze bigger or smaller. You could call one of the methods of MazeGenerator like `modifyBossFrequency();` to change the number of enemies in the Maze. Finally, you can create your own MazeConfig file to modify the Maze more significantly, as we will discuss later.
 
-Let's go on to Belts! [Part 5: BeltGenerators](tutorial/06_belt-generators.md)
+Let's go on to Belts! [Part 4: BeltGenerators](tutorial/05_belt-generators.md)

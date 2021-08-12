@@ -43,7 +43,7 @@
   <FindBugsSummary timestamp="Sun, 8 Aug 2021 14:35:10 -0400" total_classes="1" referenced_classes="29" total_bugs="0" total_size="13" num_packages="1" java_version="11.0.8" vm_version="11.0.8+10-LTS" cpu_seconds="8.86" clock_seconds="2.10" peak_mbytes="153.52" alloc_mbytes="512.00" gc_seconds="0.03">
     <FileStats path="org/destinationsol/world/NewPlanetGenerator.java" bugCount="0" size="13"/>
     <PackageStats package="org.destinationsol.world" total_bugs="0" total_types="1" total_size="13">
-      <ClassStats class="org.destinationsol.world.TutorialPlanetGenerator" sourceFile="NewPlanetGenerator.java" interface="false" size="13" bugs="0"/>
+      <ClassStats class="org.destinationsol.TutorialGalaxyGeneration.TutorialPlanetGenerator" sourceFile="NewPlanetGenerator.java" interface="false" size="13" bugs="0"/>
     </PackageStats>
     <FindBugsProfile>
       <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="363" invocations="424" avgMicrosecondsPerInvocation="856" maxMicrosecondsPerInvocation="18572" standardDeviationMicrosecondsPerInvocation="1653"/>

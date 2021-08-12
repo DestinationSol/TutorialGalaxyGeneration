@@ -29,5 +29,5 @@ public class TutorialBeltGenerator extends BeltGenerator {
 
 Now, the game will sometimes generate Belts using your class. However, these Belts will be indistinguishable from the game's default Belts. There are a few ways to modify the Belt. You can multiply the radius by some value to make the belt wider or narrower. You could also call, for example, `modifyBeltAsteroidFrequency(1.2f);` to multiply the frequency of asteroids in the belt by 1.2. Finally, you can create your own BeltConfig file to modify the Belt more significantly, as will discuss in the next section.
 
-Let's move on to [Part 6: Custom Config Files](tutorial/07_custom-config-files.md)
+Let's move on to [Part 5: Custom Config Files](tutorial/06_custom-config-files.md)
 
