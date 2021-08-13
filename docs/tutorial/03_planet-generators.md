@@ -12,7 +12,7 @@ public class TutorialPlanetGenerator extends PlanetGenerator {
 }
 ```
 
-PlanetGenerators and slightly simpler than SolarSystemGenerators in that there is only one method we have to manage, the `build()` method. That said, PlanetGenerators are also more exciting than SolarSystemGenerators, as they affect more concrete objects within the game and have more options. 
+PlanetGenerators are slightly simpler than SolarSystemGenerators in that there is only one method we have to manage, the `build()` method. That said, PlanetGenerators are also more exciting than SolarSystemGenerators, as they affect more concrete objects within the game and have more options. 
 
 To create our Planet, first call `setPlanetConfig(getPlanetConfigDefaultSettings());` to set the PlanetConfig. Next, call `setGroundHeight(getGroundHeightUsingDefault());`, `setAtmosphereHeight(DEFAULT_ATMOSPHERE_HEIGHT);`, and `calculateRadius();` to set up the dimensions of the Planet. 
 
